@@ -16,7 +16,7 @@ It will Look like this:-
 
 
 ![image](https://user-images.githubusercontent.com/88227627/127734759-2c149c6e-1a86-4a6c-aead-f2baba5e38d4.png)
-                             Starting
+Starting
 
 Taking user details:-
 ![image](https://user-images.githubusercontent.com/88227627/127734785-f2825c1a-0020-4d0c-a36a-5eb5f91d8ebc.png)
